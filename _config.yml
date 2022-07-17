@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Aaron Jerry Ninan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aaron Jerry Ninan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Aaron Jerry Ninan"
+  avatar           : "profile3.jpg"
+  bio              : "B.Tech student, Electrical Engineering Department, IIT Bombay"
+  location         : "Mumbai, Maharashtra"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :  "aaronjerry@ee.itb.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "aaroncodebro"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "aaron-jerry-ninan-b5530618b/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research_projects:
+    output: true
+    permalink: /:collection/:path/
+  academic_projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +250,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+   # _research_projects
+  - scope:
+      path: ""
+      type: research_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
@@ -255,7 +270,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

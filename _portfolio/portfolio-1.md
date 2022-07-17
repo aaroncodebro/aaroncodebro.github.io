@@ -1,6 +1,17 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
+
+## Unordered Lists (Nested)
+
+  * List item one 
+
+  * List item two
+
+  * List item three
+
+  * List item four
+"
 collection: portfolio
 ---
 
