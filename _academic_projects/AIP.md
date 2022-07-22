@@ -4,8 +4,7 @@ excerpt: "*Guide: Prof. Ajit Rajwade, Computer Science Engineering, Indian Insti
 
 <br/>
 
-* Implemented the DICeNod algorithm for identifying nodes with highest information 
-ow in social networks
+* Implemented the DICeNod algorithm for identifying nodes with highest information flow in social networks
 using compressive sensing without full knowledge of the network topological structure.
 
 * Verified and elucidated the recovery guarantees of the Sparse Centrality Vector from the proposed Sensing
