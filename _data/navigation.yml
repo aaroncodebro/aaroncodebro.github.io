@@ -12,8 +12,8 @@ main:
   - title: "Courses"
     url: /courses/
   
-  - title: "Awesome Resources"
-    url: /resources/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
 
   #- title: "Publications"
   #  url: /publications/
