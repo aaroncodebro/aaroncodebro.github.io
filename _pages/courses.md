@@ -1,5 +1,5 @@
 ---
-permalink: /courses
+permalink: /courses/
 title: "Courses undertaken @IITB"
 excerpt: "Courses undertaken @IITB"
 author_profile: true
