@@ -45,25 +45,25 @@ author_profile: true
 * CS 101 Computer Programming and Utilization
 
 ## Mathematics
-MA 205 Complex Analysis
-MA 207 Differential Equations II
-MA 106 Linear Algebra
-MA 105 Calculus
+* MA 205 Complex Analysis
+* MA 207 Differential Equations II
+* MA 106 Linear Algebra
+* MA 105 Calculus
 
 ## Other Departements
-HS 303 Psychology
-HS 200	Environmental Studies
-HS 101 Economics
-BB 101 Biology
-CE 102 Engineering Mechanics
-PH 107 Quantum Physics and Application
-PH 108 Basics of Electricity & Magnetism
-PH 117 Physics Lab
-CH 105 Organic & Inorganic Chemistry
-CH 107 Physical Chemistry
-CH 117 Chemistry Lab
-ME 119 Engineering Graphics & Drawing
-ME 113 Workshop Practice
+* HS 303 Psychology
+* HS 200 Environmental Studies
+* HS 101 Economics
+* BB 101 Biology
+* CE 102 Engineering Mechanics
+* PH 107 Quantum Physics and Application
+* PH 108 Basics of Electricity & Magnetism
+* PH 117 Physics Lab
+* CH 105 Organic & Inorganic Chemistry
+* CH 107 Physical Chemistry
+* CH 117 Chemistry Lab
+* ME 119 Engineering Graphics & Drawing
+* ME 113 Workshop Practice
 
 
 
