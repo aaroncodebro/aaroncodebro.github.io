@@ -3,11 +3,11 @@ main:
   - title: "Resume"
     url: /files/AJN_final.pdf
 
-  - title: "Research Projects"
-    url: /research_projects/
+  # - title: "Research Projects"
+  #   url: /research_projects/
   
-  - title: "Academic Projects"
-    url: /academic_projects/
+  # - title: "Academic Projects"
+  #   url: /academic_projects/
 
   - title: "Courses"
     url: /courses/
